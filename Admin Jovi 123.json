@@ -1,7 +1,7 @@
 var adminList = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah","azahra","aurora","anisa","amelia",
              "boboho","bonar","Bogard","ban nee",
              "chikaku","chinostia","chaow",
-// @version      3.NaN
+             "denis","debby","diva","dewa","done","damara",
              "erwin","eryna","erlangga",
              "ferlita","fillea",
              "gretha","garda","givano",
@@ -22,3 +22,4 @@ var adminList = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy",
              "wijaya","widya","wijaya","wawan",
              "yoky","yaya","yansah",
              "zion","zhelonk","zimbabwe","zhie"];
+

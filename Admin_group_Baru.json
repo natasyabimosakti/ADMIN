@@ -1,13 +1,11 @@
 {
-  "version": "1.0.54",
+  "version": "1.0.56",
   "admins": [
-// @version      3.NaN
+    "abeby", "acha", "aclisya", "adiat", "aditia", "adm", "admin", "afrilia", "agung", "ailen", "aileen", "aisa", "alda", "alde", "aldi", "aldy", "alenta", "amel lia", "amelia", "amora", "amore", "amzi", "ananda", "anda", "andi", "andini", "nhasar", "lindong",
     "andy", "angela", "anisa", "anjani", "ank", "annisa", "apri", "aqisya", "ardiansyah", "arga", "arifa", "arifin", "arsha", "arsyah", "artha", "aru", "aru sundawa", "arxidi", "audi", "aurora", "ayesha", "ayunda", "ayyu", "azahra",
-    "ban nee", "bang", "bang fals", "bang wawan", "bannet", "bastian", "bella", "berry", "beruang", "bhig", "biru", "bobby", "boboho", "bogard", "bola", "boleng", "bonar", "bonbin", "botack", "bunga", "bungaa", "bodrex",
-    "cahyo", "calista", "calon", "calvin", "camb", "cassa", "ccwek", "celsi", "celsia", "ceme", "che", "chelse", "chelsea", "chika", "chikaku", "chin", "chinostia", "cila", "cinta", "cipto", "citra", "claudio", "claura", "cleopatra", "cocole", "cocona", "cristina",
     "damara", "dang", "dani", "david", "davh", "dealova", "debby", "den arkanza", "denis", "dentoto", "desi", "deva", "dewa", "dewi", "dhea", "dicky", "dika", "diva", "doal", "done", "durex",
     "givano", "elice", "elvina", "emilia", "enzo", "erika", "erlangga", "erwin", "eryna", "esse", "evelyn", "tenggarong", "ellen", "nhasar", "sukardi", 
-    "fadil", "fahmi", "fahresa", "fals", "fania", "ferlita", "ferry", "fiana", "fillea", "findlay", "fiona", "fira", "ellen",
+    "fadil", "fahmi", "fahresa", "fals", "fania", "ferlita", "ferry", "fiana", "fillea", "findlay", "fiona", "fira", "ellen", 
     "gambrong", "garda", "gavra", "gebbhoy", "gebby", "gemz", "genzo", "girma", "gita", "givano", "gretha", "aldo", "hongkong",
     "habib", "hana", "hangroups", "har", "hefi", "hendra", "herfizah", "hoihai", "hokage", "hoki", "hokii", "hoky",
     "icha", "imam", "inisial", "intan", "invest", "inzagi", "ishaura", "isticharo", "ivanna", "iyatoto", "perdana",
@@ -21,6 +19,13 @@
     "paduka", "panambang", "pasil", "payung", "pebri", "pencari", "prediction", "pengurus", "pertama", "pram", "pricilia", "primus", "priqittyu", "priyan", "pung", "puput", "purwanto", "putra",
     "raja", "rahma", "rana", "rangga", "ranger", "rani", "ranti", "rara", "ratna", "ratsa", "ratu", "ratuliu", "rebeca", "renata", "rendy", "revi", "ria", "rikodo", "riko", "rindi", "rindu", "rio", "rismay", "rizal", "rohmanu", "ronal", "rotto", "roy", "rudz", "rungkad", "ryan",
     "sabillah", "safa", "safira", "sahara", "saka", "sakha", "sam", "san", "sanchez", "sandiego", "sanjaya", "sapto", "saputra", "sara", "sarii", "sasa", "sasha", "saskia", "satria", "sefanya", "sellia", "sembroh", "seojun", 
-
-
-    
+    "serena", "seri", "shell", "siâo", "sidebar", "sifa", "simso", "sinta", "sintia", "sintya", "siska", "sitar", "sofia", "sonia", "specialis", "stephen", "stevent", "sudewo", "sukedana", "sundawa", "surianti", "surthy", "suzanawati",
+    "tag", "tania", "tatang", "tesa", "thnex", "thonex", "tiara", "tiffany", "tiktak", "tink", "tomi",
+    "ujen",
+    "valencia", "vannya", "vaulian", "vero", "vhita", "viona", "virna", "vivi", "vonny",
+    "wahyuni", "wak", "wakgenk", "wawan", "whociang", "widya", "wok", "wulan",
+    "xafya", "xian", "xing", "xingsheng",
+    "yadi", "yahana", "yansah", "yanty", "yaya", "yeni", "yihana", "yii", "yohana", "yoky", "yonan", "you lee", "yukine", "yura",
+    "zhelonk", "zhie", "zimbabwe", "zion", "zuko"
+  ]
+}
